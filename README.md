@@ -7,7 +7,7 @@ Repo này là một guide hướng dẫn sử dụng github
 1. Tạo 1 repo trên github (có readme.md)
 1. Clone repo từ bên trung gian về máy tính qua `git clone https://URL.git`
 
-## Tương tác với file
+## Tương tác với github
 
 ### Branch (Nhánh nhỏ)
 
@@ -16,17 +16,17 @@ Repo này là một guide hướng dẫn sử dụng github
 
 ### Pull, Add
 
-* Pull (kéo) code từ trung gian `git pull origin main`, từ nhánh khác `git pull origin branch_name
+* Pull (kéo) code từ trung gian `git pull origin main`, từ nhánh khác `git pull origin branch_name`
 * Add file sau khi đã tạo file `git add .`
 
 ### Đẩy lên trung gian
 
 * Commit code lên github `git commit -am "YOUR COMMENT ABOUT THIS UPDATE"` 
 Lưu ý: Luôn commit trước khi push và comment cần chi tiết
-* Push (đẩy) code lên trung gian `git push https://URL.git` hoặc `git push origin main'
+* Push (đẩy) code lên trung gian `git push https://URL.git` hoặc `git push origin main`
 
 ## Khi gặp conflict
 
 1. Pull code từ main xuống `git pull origin main`
-1. Merge code line
+1. Merge code
 1. Đẩy lên trung gian

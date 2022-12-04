@@ -27,6 +27,6 @@ Lưu ý: Luôn commit trước khi push và comment cần chi tiết
 
 ## Khi gặp conflict
 
-1. Pull code từ main xuống `git pull origin main`
+1. Pull code từ main xuống
 1. Merge code
 1. Đẩy lên trung gian

@@ -6,3 +6,4 @@
 * chỉnh tiếng Anh sang tiếng Hoa
 * Để hình rồng
 * Tui push lên china only
+* chi: xmas is coming to town

@@ -5,3 +5,4 @@
 * mới sửa cái hình
 * chỉnh tiếng Anh sang tiếng Hoa
 * Để hình rồng
+* Tui push lên china only

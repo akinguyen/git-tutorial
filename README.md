@@ -6,4 +6,5 @@
 * chỉnh tiếng Anh sang tiếng Hoa
 * Để hình rồng
 * Tui push lên china only
-* Hello ba gia co don
+* lấy từ CHi
+* chi: xmas is coming to town

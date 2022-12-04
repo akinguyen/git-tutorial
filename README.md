@@ -1,11 +1,5 @@
 # git-tutorial
-Đây là repo về github tutorial
-* Duy: tôi mới thêm nội dung
-* DUy: tôi mới add thêm haha
-* mới sửa cái hình
-* chỉnh tiếng Anh sang tiếng Hoa
-* Để hình rồng
-* Tui push lên china only
-* lấy từ CHi
-* chi: xmas is coming to town
-* ko them add
+
+* Khi clone một cái repo thì nên dùng:
+
+`git clone htttps://URL.git`

@@ -7,3 +7,4 @@
 * Để hình rồng
 * Tui push lên china only
 * lấy từ CHi
+* chi: xmas is coming to town
